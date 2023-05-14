@@ -1,2 +1,2 @@
 # Solarflex
-animated SUN, Earth and two other neighboring celestials
+animated Sun, Earth and two other neighboring celestials
